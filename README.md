@@ -75,13 +75,14 @@
 - The back-end application github repository link is (https://github.com/lavanyamishra/BookStore-backend)
 
 ## Screenshots
+![Screenshot (32)](https://github.com/lavanyamishra/BookStore-Frontend/assets/100487476/9b52b60a-4d76-421b-834b-adc406616441)
+![Screenshot (33)](https://github.com/lavanyamishra/BookStore-Frontend/assets/100487476/e501c03a-6a88-410e-bfd2-9cf3e03dcc25)
+![Screenshot (28)](https://github.com/lavanyamishra/BookStore-Frontend/assets/100487476/a447e165-edbc-449a-8876-80f5c69ca303)
+![Screenshot (29)](https://github.com/lavanyamishra/BookStore-Frontend/assets/100487476/60077c3e-3db2-465f-b811-2558c6f0001a)
+![Screenshot (30)](https://github.com/lavanyamishra/BookStore-Frontend/assets/100487476/c9bcee40-143a-495f-847d-5bd2e0c4fbf5)
+![Screenshot (31)](https://github.com/lavanyamishra/BookStore-Frontend/assets/100487476/869775db-a9aa-46a4-bd0c-658c4c43bfa6)
 
-![Screenshot (32)](https://github.com/lavanyamishra/BookStore-Frontend/assets/100487476/d0e44e8c-5814-43ab-a32c-aa700d082f64)
-![Screenshot (30)](https://github.com/lavanyamishra/BookStore-Frontend/assets/100487476/e84bf0aa-dc9e-4068-ae4d-19617fcc2310)
-![Screenshot (33)](https://github.com/lavanyamishra/BookStore-Frontend/assets/100487476/fa02002a-6150-4131-a774-f217711210a7)
-![Screenshot (28)](https://github.com/lavanyamishra/BookStore-Frontend/assets/100487476/1ac9d134-1768-4093-9768-3dc4cbd33384)
-![Screenshot (29)](https://github.com/lavanyamishra/BookStore-Frontend/assets/100487476/bc815f92-73c3-4bd2-8ca3-f6e6c4de9986)
-![Screenshot (31)](https://github.com/lavanyamishra/BookStore-Frontend/assets/100487476/49bb7852-adad-4db9-9aa7-4a4a042d9e24)
+
 
 
 
